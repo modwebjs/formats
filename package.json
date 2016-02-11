@@ -1,0 +1,16 @@
+{
+  "name": "modweb-formats",
+  "version": "1.0.0",
+  "description": "Parses formats used by modweb to generic JS types.",
+  "main": "lib/formats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Modweb project",
+  "license": "MIT",
+  "readme": "README.md",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "js-yaml": "^3.5.3"
+  }
+}
